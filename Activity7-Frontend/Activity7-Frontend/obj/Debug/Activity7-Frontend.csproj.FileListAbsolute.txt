@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Activity7-Frontend\Activity7-Frontend\bin\Debug\Activity7-Frontend.exe.config
+C:\Users\HP\source\repos\Activity7-Frontend\Activity7-Frontend\bin\Debug\Activity7-Frontend.exe
+C:\Users\HP\source\repos\Activity7-Frontend\Activity7-Frontend\bin\Debug\Activity7-Frontend.pdb
+C:\Users\HP\source\repos\Activity7-Frontend\Activity7-Frontend\obj\Debug\Activity7-Frontend.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Activity7-Frontend\Activity7-Frontend\obj\Debug\Activity7_Frontend.Properties.Resources.resources
+C:\Users\HP\source\repos\Activity7-Frontend\Activity7-Frontend\obj\Debug\Activity7-Frontend.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Activity7-Frontend\Activity7-Frontend\obj\Debug\Activity7-Frontend.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Activity7-Frontend\Activity7-Frontend\obj\Debug\Activity7-Frontend.exe
+C:\Users\HP\source\repos\Activity7-Frontend\Activity7-Frontend\obj\Debug\Activity7-Frontend.pdb
+C:\Users\HP\source\repos\Activity7-Frontend\Activity7-Frontend\obj\Debug\Activity7_Frontend.Form1.resources
+C:\Users\HP\source\repos\Activity7-Frontend\Activity7-Frontend\obj\Debug\Activity7_Frontend.Dashboard.resources
+C:\Users\HP\source\repos\Activity7-Frontend\Activity7-Frontend\obj\Debug\Activity7_Frontend.PatientManagement.resources
+C:\Users\HP\source\repos\Activity7-Frontend\Activity7-Frontend\obj\Debug\Activity7_Frontend.DoctorManagement.resources
